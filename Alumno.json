@@ -1,0 +1,65 @@
+[
+  {
+    "edad": 30, 
+    "apellido": "Goodman", 
+    "sexo": "MA", 
+    "nombre": "Mcintosh", 
+    "peso": 87.194800000000001, 
+    "telefono": 29, 
+    "email": "mcintoshgoodman@ecraze.com"
+  }, 
+  {
+    "edad": 30, 
+    "apellido": "Barlow", 
+    "sexo": "FE", 
+    "nombre": "Bruce", 
+    "peso": 50.036900000000003, 
+    "telefono": 33, 
+    "email": "brucebarlow@ecraze.com"
+  }, 
+  {
+    "edad": 39, 
+    "apellido": "Bowen", 
+    "sexo": "MA", 
+    "nombre": "Antoinette", 
+    "peso": 36.625300000000003, 
+    "telefono": 20, 
+    "email": "antoinettebowen@ecraze.com"
+  }, 
+  {
+    "edad": 31, 
+    "apellido": "Russo", 
+    "sexo": "MA", 
+    "nombre": "Mcfadden", 
+    "peso": 86.872699999999995, 
+    "telefono": 39, 
+    "email": "mcfaddenrusso@ecraze.com"
+  }, 
+  {
+    "edad": 32, 
+    "apellido": "Everett", 
+    "sexo": "MA", 
+    "nombre": "Mai", 
+    "peso": 47.167400000000001, 
+    "telefono": 37, 
+    "email": "maieverett@ecraze.com"
+  }, 
+  {
+    "edad": 36, 
+    "apellido": "Mayo", 
+    "sexo": "MA", 
+    "nombre": "Sampson", 
+    "peso": 55.497199999999999, 
+    "telefono": 22, 
+    "email": "sampsonmayo@ecraze.com"
+  }, 
+  {
+    "edad": 40, 
+    "apellido": "Garrett", 
+    "sexo": "MA", 
+    "nombre": "Tyson", 
+    "peso": 66.742999999999995, 
+    "telefono": 30, 
+    "email": "tysongarrett@ecraze.com"
+  }
+]
